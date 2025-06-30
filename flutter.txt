@@ -1,0 +1,7 @@
+for create flutter project 
+cmd: flutter create  projectNmae
+
+for hot reload 
+cmd: r
+
+
